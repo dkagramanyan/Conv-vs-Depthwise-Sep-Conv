@@ -5,6 +5,7 @@
 
 [Tensorflow lib ResNet source with weights](https://github.com/tensorflow/tensorflow/blob/5dcfc51118817f27fad5246812d83e5dccdc5f72/tensorflow/python/keras/applications/resnet.py)
 
+![resnet](images/resnet.png)
 
 Other links
 ----------
